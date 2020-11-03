@@ -6,8 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56640c29-0be2-43f6-8cd6-ba5dcdfb6698" name="Default Changelist" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext" beforeDir="false" afterPath="$PROJECT_DIR$/apps/erpnext" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/newmod/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/newmod/doctype/__init__.py" beforeDir="false" />
@@ -25,6 +23,10 @@
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_contrat/type_contrat.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_contrat/type_contrat.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_vente_autorise/type_vente_autorise.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/erpnext/erpnext/partners/doctype/type_vente_autorise/type_vente_autorise.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/erpnext/erpnext/partners_contract/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/site1.local/private/backups/20201028_223028-site1_local-database.sql.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/site1.local/private/backups/20201028_223028-site1_local-site_config_backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/site1.local/private/backups/20201029_043030-site1_local-database.sql.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/site1.local/private/backups/20201029_043030-site1_local-site_config_backup.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
